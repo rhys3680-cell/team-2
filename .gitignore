@@ -14,3 +14,6 @@ data/
 *.csv
 *.csv.gz
 *.zip
+
+# Jupyter
+.ipynb_checkpoints/
