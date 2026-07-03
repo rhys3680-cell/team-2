@@ -17,3 +17,8 @@ data/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# DuckDB temp spill files
+.tmp/
+*.duckdb
+*.duckdb.wal
